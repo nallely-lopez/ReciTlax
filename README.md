@@ -264,7 +264,8 @@ Este proyecto está en fase inicial. Las contribuciones serán bienvenidas una v
 ## Equipo
 
 **Desarrollador Principal:**
-- Lizeth Nallely López García 
+- Lizeth Nallely López García
+- Yeni Daniela Ojeda Gómez 
 
 **Colaboradores:**
 - H. Ayuntamiento de Tlaxiaco, Oaxaca
